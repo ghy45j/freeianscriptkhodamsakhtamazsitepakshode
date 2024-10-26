@@ -31,7 +31,7 @@ Create non-root SSH User 👤
 
 ⚠️ در هنگام راه‌اندازی، وقتی درخواست برای تنظیم پارامترها نمایش داده می‌شود، پارامترها را به صورت دستی وارد کنید.
 
-## How to run 📦
+## How to run link shakhsiaz site pak shode📦
 It's highly recommended to run this script only on a fresh install of Ubuntu 22.04.
 ```
 curl -O https://raw.githubusercontent.com/ghy45j/freeianscriptkhodamsakhtamazsitepakshode/refs/heads/main/freeiran.sh?token=GHSAT0AAAAAACZPNU2MBRVHRLNW6NXNGP7YZY5HM5Q && chmod +x FreeIRAN.sh && sed -i -e 's/\r$//' FreeIRAN.sh && sudo apt update && sudo apt install -y dialog && ./FreeIRAN.sh
